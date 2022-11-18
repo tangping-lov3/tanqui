@@ -1,0 +1,4 @@
+packages:
+  - src/packages/*
+  - src/site
+  - src/vue
